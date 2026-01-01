@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "relentS": 1,
+    "relentO": 1,
+    "relentU": 0,
+    "relentR": "https://mobile.daplex.cyou",
+    "relentC": "",
+    "relentE": "0xffffff"
+  }
+]
