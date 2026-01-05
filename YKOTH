@@ -1,10 +1,10 @@
 [
   {
     "patnalS": 1,
-    "patnalSO": 1,
-    "patnalSU": 0,
-    "patnalSR": "https://mobile.daplex.cyou",
-    "patnalSC": "",
-    "patnalSE": "0xffffff"
+    "patnalO": 1,
+    "patnalU": 0,
+    "patnalR": "https://mobile.daplex.cyou",
+    "patnalC": "",
+    "patnalE": "0xffffff"
   }
 ]
